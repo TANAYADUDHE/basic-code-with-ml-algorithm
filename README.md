@@ -1,3 +1,4 @@
+This is basic code of python with the machine learning algorithm.
 d.py
 ![image](https://github.com/user-attachments/assets/0163f155-c079-4c24-8aea-6a934c56224e)
 ![image](https://github.com/user-attachments/assets/ca7af608-2703-4864-ad26-964ff7fe7541)
